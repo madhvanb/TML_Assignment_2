@@ -51,7 +51,8 @@ Files
 - `submission.csv` - Final submission file
 
 References
-- Tramèr et al., *Stealing Machine Learning Models via Prediction APIs*, USENIX Security 2016.
-- Kornblith et al., *Similarity of Neural Network Representations Revisited*, ICML 2019.
-- Li et al., *ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection*, ISSTA 2021.
-- Dziedzic et al., *Dataset Inference for Self-Supervised Models*, NeurIPS 2022.
+1. Florian Tramèr, Fan Zhang, Ari Juels, Michael K. Reiter, and Thomas Ristenpart. *Stealing Machine Learning Models via Prediction APIs*. USENIX Security Symposium, 2016. https://arxiv.org/abs/1609.02943
+2. Simon Kornblith, Mohammad Norouzi, Honglak Lee, and Geoffrey Hinton. *Similarity of Neural Network Representations Revisited*. International Conference on Machine Learning (ICML), 2019. https://arxiv.org/abs/1905.00414
+3. Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. *Deep Residual Learning for Image Recognition*. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016. https://arxiv.org/abs/1512.03385
+4. Yuanchun Nguyen et al. *ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection*. ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2022.
+5. Adam Dziedzic, Mislav Dhawan, Nicolas Papernot, and Siddharth Garg. *Dataset Inference for Self-Supervised Models*. Advances in Neural Information Processing Systems (NeurIPS), 2022.
