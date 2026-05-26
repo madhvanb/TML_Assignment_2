@@ -36,13 +36,6 @@ Submitting
 python submission.py
 ```
 
-Reproducing on an HPC cluster
-The `cluster/` directory contains the Condor scripts we used on the Saarland HPC.
-```
-chmod +x cluster/run_job.sh
-condor_submit cluster/task2.sub
-```
-
 Files
 - `main_detector.py` — Final pipeline combining multi-signal and hard-probe groups -> TPR@5%FPR
 - `submission.py` - Leaderboard uploader
