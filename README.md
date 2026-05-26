@@ -47,11 +47,11 @@ Files
 - `main_detector.py` — Final pipeline combining multi-signal and hard-probe groups -> TPR@5%FPR
 - `submission.py` - Leaderboard uploader
 - `requirements.txt` - All the required libs
-- `Report_Task2_MadhvanBajaj_AnishChandrasekaran` - Final Report
+- Final report PDF - not included in this workspace
 - `submission.csv` - Final submission file
 
 References
-Tramèr et al., Stealing Machine Learning Models via Prediction APIs, USENIX Security 2016.
-Kornblith et al., Similarity of Neural Network Representations Revisited, ICML 2019.
-Li et al., ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection, ISSTA 2021.
-Dziedzic et al., Dataset Inference for Self-Supervised Models, NeurIPS 2022.
+- Tramèr et al., *Stealing Machine Learning Models via Prediction APIs*, USENIX Security 2016.
+- Kornblith et al., *Similarity of Neural Network Representations Revisited*, ICML 2019.
+- Li et al., *ModelDiff: Testing-Based DNN Similarity Comparison for Model Reuse Detection*, ISSTA 2021.
+- Dziedzic et al., *Dataset Inference for Self-Supervised Models*, NeurIPS 2022.
